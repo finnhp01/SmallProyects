@@ -68,4 +68,17 @@ That's it, have fun :D!
 
 
 # extras:
-Add this lines to line 
+On line 16 you can add this to the on_press function:
+```py
+def on_press(key):
+    global listener
+    if key:
+        print("Keyboard!")
+        pipe.play()
+    else:
+        print("PIPE!")
+    if key == keyboard.Key.esc:
+        listener.stop()
+        return False
+```
+This will basically make every single key in your keyboard play the sound.
