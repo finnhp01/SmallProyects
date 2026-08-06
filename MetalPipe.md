@@ -67,7 +67,7 @@ Open a **terminal/command line** and make sure you are on the folder location of
 That's it, have fun :D!
 
 
-# extras:
+#### extras:
 On line 16 you can add this to the on_press function:
 ```py
 def on_press(key):
