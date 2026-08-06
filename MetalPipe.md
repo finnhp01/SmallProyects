@@ -7,7 +7,7 @@ git clone https://github.com/finnhp01/SmallProyects/MetalPipe
 ```
 Or just directly download the `MetalPipe.py` and `ThePipe.ogg` from [MetalPipe](MetalPipe)
 
-Make sure you have **Python 3** (or newer) installed on either **Linux** or **Windows**.
+Make sure you have **Python 3** (or newer) installed
 ---
 ### Linux/Windows/Powershell
 
