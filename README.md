@@ -1,5 +1,6 @@
 # Welcome!
-This is a collection of small pieces of code to solve one problem or make something really funny but worth to code
+This is a collection of small pieces of code to solve one problem or make something really funny but worth to code.
+###### ("Proyects isn't misspelled is short for Py)
 
 # MetalPipe
 A **loud** metal pipe will fall to the ground each time you click (Press ESC to stop it) made to work both in Linux and Windows!
