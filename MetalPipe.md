@@ -68,7 +68,7 @@ That's it, have fun :D!
 
 
 ### Extras:
-On line `16` you can add this `3` lines to the on_press function:
+On line `16` you can add those `3` lines to the `on_press()` function:
 ```py
 def on_press(key):
     global listener
