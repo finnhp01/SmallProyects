@@ -3,9 +3,10 @@ Download the `MetalPipe.py` and audio file `ThePipe.ogg`
 
 **You can use your own audio file** but make sure the filename is the same as "ThePipe.ogg" or change it directly in the code before executing it!
 ```bash
-git clone https://github.com/username/MetalPipe
-cd MetalPipe
+git clone https://github.com/finnhp01/SmallProyects/MetalPipe
 ```
+Or just directly download the `MetalPipe.py` and `ThePipe.ogg` from [MetalPipe](MetalPipe)
+
 Make sure you have **Python 3** (or newer) installed on either **Linux** or **Windows**.
 ---
 ### Linux/Windows/Powershell
