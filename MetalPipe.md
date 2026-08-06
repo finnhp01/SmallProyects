@@ -68,7 +68,7 @@ That's it, have fun :D!
 
 
 ### Extras:
-On line 16 you can add this to the on_press function:
+On line `16` you can add this `3` lines to the on_press function:
 ```py
 def on_press(key):
     global listener
@@ -81,4 +81,4 @@ def on_press(key):
         listener.stop()
         return False
 ```
-This will basically make every single key in your keyboard play the sound.
+This will basically make every single key in your keyboard play the sound. **PIPE CHAOS**
