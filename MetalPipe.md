@@ -61,6 +61,11 @@ or, if you're using the Python launcher:
 py -m pip install pynput pygame
 ```
 ## PIPE!
-Run it directly in your **terminal/command line** with ```python3 MetalPipe.py``` but make sure the audio file [ThePipe.ogg](MetalPipe/ThePipe.ogg) are in the same folder as the main python file and you properly installed the pynput and pygame libraries.
+Open a **terminal/command line** and make sure you are on the folder location of ```MetalPipe.py``` and run it with ```python3 MetalPipe.py```  make sure the audio file [ThePipe.ogg](MetalPipe/ThePipe.ogg) are in the same folder as the main python file and you properly installed the pynput and pygame libraries.
+
 
 That's it, have fun :D!
+
+
+# extras:
+Add this lines to line 
